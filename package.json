@@ -1,0 +1,21 @@
+{
+    "name": "homebridge-mkht",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Moritz Kanzler",
+    "license": "ISC",
+    "engines": {
+        "node": ">=10.17.0",
+        "homebridge": ">=0.4.8"
+    },
+    "keywords": [
+        "homebridge-plugin"
+    ],
+    "dependencies": {
+        "axios": "^0.21.1"
+    }
+}
